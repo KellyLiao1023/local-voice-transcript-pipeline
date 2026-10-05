@@ -1,0 +1,5 @@
+faster-whisper
+python-docx
+requests
+# torch 請依顯卡 CUDA 版本至 https://pytorch.org/get-started/locally/ 取得安裝指令
+torch

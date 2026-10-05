@@ -1,0 +1,16 @@
+# 個人設定（含路徑與 token）
+config.json
+
+# 預設資料夾與產出
+data/
+*.docx
+*.aac
+*.m4a
+*.mp3
+*.wav
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
