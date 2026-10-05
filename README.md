@@ -44,7 +44,7 @@ Recordings/          放入錄音檔 (.aac / .m4a / .mp3 / .wav)
 
 ## 環境需求
 
-- Windows（其他系統未測試）
+- Windows 11（其他系統未測試）
 - Python 3.10 以上
 - 支援 CUDA 的 NVIDIA 顯示卡（Whisper large-v3 約需 4 GB VRAM；LLM 需求依所選模型而定）
 - [LM Studio](https://lmstudio.ai/)，並已下載要使用的模型（開發時使用 `deepseek-r1-0528-qwen3-8b`、`gpt-oss-20b`）
